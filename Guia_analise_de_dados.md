@@ -1,7 +1,7 @@
 # O Guia Definitivo de Análise de Dados
 ## Do Estagiário ao Sênior: Engenharia, Matemática e Estratégia de Negócio
 
-**Por um Arquiteto de Dados & Mentor de Analytics**
+**Feito Com Inteligência Artificial**
 
 ---
 
