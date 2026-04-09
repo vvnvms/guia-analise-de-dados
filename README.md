@@ -2,7 +2,7 @@
 
 Bem-vindo! Este repositório foi criado com o objetivo de centralizar e organizar meus estudos sobre o universo de dados.
 
-## 📌 Sobre este Projeto
+## 📌 Sobre este Arquivo
 O arquivo principal deste repositório contém um resumo estruturado abrangendo conceitos, processos e ferramentas de **Análise de Dados**. 
 
 > **Nota:** Este material foi gerado com o auxílio de Inteligência Artificial para servir como um guia de consulta rápida e reforço de aprendizado.
