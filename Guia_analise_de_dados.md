@@ -398,20 +398,11 @@ Mesma média, **realidades completamente diferentes**!
 
 **Métricas de Dispersão:**
 
-1. **Variância**:
-$$
-\sigma^2 = \frac{1}{N} \sum_{i=1}^{N} (x_i - \mu)^2
-$$
+1. **Variância**:  $\sigma^2 = \frac{1}{N} \sum_{i=1}^{N} (x_i - \mu)^2$
 
-2. **Desvio Padrão**:
-$$
-\sigma = \sqrt{\sigma^2}
-$$
+2. **Desvio Padrão**:  $\sigma = \sqrt{\sigma^2}$
 
-3. **Coeficiente de Variação** (normaliza dispersão pela média):
-$$
-CV = \frac{\sigma}{\mu} \times 100\%
-$$
+3. **Coeficiente de Variação** (normaliza dispersão pela média):  $CV = \frac{\sigma}{\mu} \times 100\%$
 
 ```python
 cv = (desvio_padrao / media) * 100
